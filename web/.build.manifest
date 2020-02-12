@@ -88,6 +88,7 @@ WranglerBios/insufferableOracle_bio.txt
 WranglerBios/jadedResearcher_bio.txt
 WranglerBios/karmicRetribution_bio.txt
 WranglerBios/manicInsomniac_bio.txt
+WranglerBios/modTODO.txt
 WranglerBios/paradoxLands_bio.txt
 WranglerBios/poshPotato_bio.txt
 WranglerBios/recursiveSlacker_bio.txt
@@ -136,7 +137,6 @@ css/navbar.css
 css/newspost.css
 css/observatory.css
 css/oc.css
-css/oc.css~
 css/ocgen.css
 css/pwcss.css
 css/rap copy.css
@@ -751,6 +751,7 @@ images/Bodies/cowl19.png
 images/Bodies/cowl2.png
 images/Bodies/cowl20.png
 images/Bodies/cowl21.png
+images/Bodies/cowl22.png
 images/Bodies/cowl256.png
 images/Bodies/cowl3.png
 images/Bodies/cowl4.png
@@ -773,6 +774,7 @@ images/Bodies/dream19.png
 images/Bodies/dream2.png
 images/Bodies/dream20.png
 images/Bodies/dream21.png
+images/Bodies/dream22.png
 images/Bodies/dream256.png
 images/Bodies/dream3.png
 images/Bodies/dream4.png
@@ -819,6 +821,7 @@ images/Bodies/god19.png
 images/Bodies/god2.png
 images/Bodies/god20.png
 images/Bodies/god21.png
+images/Bodies/god22.png
 images/Bodies/god256.png
 images/Bodies/god3.png
 images/Bodies/god4.png
@@ -854,6 +857,7 @@ images/Bodies/reg19.png
 images/Bodies/reg2.png
 images/Bodies/reg20.png
 images/Bodies/reg21.png
+images/Bodies/reg22.png
 images/Bodies/reg256.png
 images/Bodies/reg3.png
 images/Bodies/reg4.png
