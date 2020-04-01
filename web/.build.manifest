@@ -84,6 +84,7 @@ WranglerBios/aspiringWatcher_bio.txt
 WranglerBios/authorBotJunior_bio.txt
 WranglerBios/authorBot_bio.txt
 WranglerBios/dilletantMathematician_bio.txt
+WranglerBios/enamoredEncoding_bio.txt
 WranglerBios/insufferableOracle_bio.txt
 WranglerBios/jadedResearcher_bio.txt
 WranglerBios/karmicRetribution_bio.txt
@@ -95,11 +96,13 @@ WranglerBios/recursiveSlacker_bio.txt
 WranglerBios/shogun_bio.txt
 WranglerBios/someBody_bio.txt
 WranglerBios/tableGuardian_bio.txt
+WranglerBios/wizardlyLogger_bio.txt
 WranglerBios/wooMod_bio.txt
 WranglerNewsposts/aspiringWatcher.txt
 WranglerNewsposts/authorBot.txt
 WranglerNewsposts/authorBotJunior.txt
 WranglerNewsposts/dilletantMathematician.txt
+WranglerNewsposts/enamoredEncoding.txt
 WranglerNewsposts/insufferableOracle.txt
 WranglerNewsposts/jadedResearcher.txt
 WranglerNewsposts/karmicRetribution.txt
@@ -110,6 +113,7 @@ WranglerNewsposts/recursiveSlacker.txt
 WranglerNewsposts/shogun.txt
 WranglerNewsposts/someBody.txt
 WranglerNewsposts/tableGuardian.txt
+WranglerNewsposts/wizardlyLogger.txt
 WranglerNewsposts/wooMod.txt
 ab_image_text.txt
 about.html
@@ -137,6 +141,7 @@ css/navbar.css
 css/newspost.css
 css/observatory.css
 css/oc.css
+css/oc.css~
 css/ocgen.css
 css/pwcss.css
 css/rap copy.css
@@ -760,6 +765,7 @@ images/Bodies/cowl6.png
 images/Bodies/cowl7.png
 images/Bodies/cowl8.png
 images/Bodies/cowl9.png
+images/Bodies/crabface.png
 images/Bodies/dream1.png
 images/Bodies/dream10.png
 images/Bodies/dream11.png
@@ -875,7 +881,7 @@ images/Credits/AB_icon.png
 images/Credits/Keiya.png
 images/Credits/Shogunbot_Clean.png
 images/Credits/Shogunbot_CleanOld.png
-images/Credits/Smith_of_Dreams_icon.png
+images/Credits/Smith_of_Dreams_Icon.png
 images/Credits/Smith_of_Dreams_icon_sauce.png
 images/Credits/ZenithNadir.png
 images/Credits/ab_icon_sauce.png
@@ -1901,6 +1907,8 @@ images/StatusBanners/the_great_refactor_2.gif
 images/Time.png
 images/TimeBig.png
 images/Tmp/God Tier Color Swaps.xlsx
+images/Trucks.png
+images/TrucksBig.png
 images/Void.png
 images/VoidBig.png
 images/Wings/wing0.png
@@ -2092,6 +2100,7 @@ images/misc/waste_of_mind.png
 images/misc/wing_test.png
 images/misc/xmascard.png
 images/misc/yellowYardStick.png
+images/mysteriousrogue.png
 images/observatory/observatory_header.png
 images/observatory/observatory_screen.png
 images/observatory/pipe_end_left.png
@@ -2250,6 +2259,11 @@ packages/$sdk/dev_compiler/legacy/dart_library.js
 packages/$sdk/dev_compiler/legacy/dart_sdk.js
 packages/$sdk/dev_compiler/web/dart_stack_trace_mapper.js
 packages/$sdk/dev_compiler/web/ddc_web_compiler.js
+packages/CommonLib/analysis_options.yaml
+packages/CommonLib/build.yaml
+packages/CommonLib/js/lz-string.min.js
+packages/CommonLib/js/stacktrace.min.js
+packages/CommonLib/js/tracer.js
 packages/analyzer/src/summary/format.fbs
 packages/build_modules/src/analysis_options.default.yaml
 packages/build_runner/src/server/README.md
@@ -2335,6 +2349,7 @@ scripts/Controllers/SessionFinder/VillainFinderController.dart.js
 scripts/Controllers/Story/AfterlifeController.dart.js
 scripts/Controllers/Story/DeadStoryController.dart.js
 scripts/Controllers/Story/SimIndexController.dart.js
+scripts/Controllers/Story/VoidStoryController.dart.js
 scripts/Rendering/text/opentype.min.js
 scripts/Rendering/threed/extensions/GPUParticleSystem.js
 scripts/Rendering/threed/extensions/LoaderSupport.js
@@ -2386,6 +2401,8 @@ tmp.txt
 todo.html
 tools/hex_viewer/hex_viewer.dart.js
 tools/hex_viewer/index.html
+tools/image_steganography/image_steganography.dart.js
+tools/image_steganography/index.html
 tools/image_tools/image_tools.dart.js
 tools/image_tools/index.html
 tools/index.html
@@ -2409,6 +2426,7 @@ tools/text_tools/text_tools.dart.js
 tools/xml_editor/index.html
 tools/xml_editor/xml_editor.dart.js
 tournament_arc.html
+void_index.html
 wordlists/adjectives.words
 wordlists/headcanon.words
 wordlists/nouns.words

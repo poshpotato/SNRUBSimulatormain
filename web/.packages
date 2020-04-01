@@ -1,4 +1,7 @@
 SBURBSim_Dart_Edition:packages/SBURBSim_Dart_Edition/
+CommonLib:packages/CommonLib/
+ImageLib:packages/ImageLib/
+LoaderLib:packages/LoaderLib/
 analyzer:packages/analyzer/
 archive:packages/archive/
 args:packages/args/
@@ -23,6 +26,7 @@ collection:packages/collection/
 convert:packages/convert/
 crypto:packages/crypto/
 csslib:packages/csslib/
+csv:packages/csv/
 dart_style:packages/dart_style/
 fixnum:packages/fixnum/
 front_end:packages/front_end/
