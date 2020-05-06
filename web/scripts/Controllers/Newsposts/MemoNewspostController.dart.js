@@ -2285,12 +2285,13 @@ o="images/Credits/pp_icon"+t
 r=A.t(r)
 p=H.h([],q)
 $.q().push(new F.o(o,r,"poshPotato",p))
-p=A.t(C.a.q("#f78123",1))
-r=H.h([],q)
-$.q().push(new F.o(null,p,"enamoredEncoding",r))
-r=A.t(C.a.q("#000000",1))
+p="images/Credits/kazooicon"+t
+r=A.t(C.a.q("#f78123",1))
+o=H.h([],q)
+$.q().push(new F.o(p,r,"enamoredEncoding",o))
+o=A.t(C.a.q("#000000",1))
 q=H.h([],q)
-$.q().push(new F.o(null,r,"wizardlyLogger",q))
+$.q().push(new F.o(null,o,"wizardlyLogger",q))
 if(O.eR("staff",null)!=null)T.ec()
 else T.bD()
 W.dm(window,"scroll",new T.ee(),!1)},
